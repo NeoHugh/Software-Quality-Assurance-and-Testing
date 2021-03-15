@@ -1,0 +1,7 @@
+gensim
+numpy==1.18.2
+bs4==0.0.1
+selenium==3.141.0
+jieba==0.42.1
+requests==2.22.0
+lxml==4.6.2
